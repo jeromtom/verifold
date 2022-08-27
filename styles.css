@@ -42,9 +42,13 @@ body {
     backdrop-filter: blur(5px);
 }
 
-#walletID, #emailAddress, #password {
+#walletID, #emailAddress, #password, #name, #age {
     border: 0;
     background-color: rgba(255, 255, 255, .15);
     backdrop-filter: blur(5px);
-    width: 80%;
+    width: 100%;
+}
+
+input {
+    font-family: monospace;
 }
