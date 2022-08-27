@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "near-api-js": "^1.0.0"
+  },
+  "name": "verifold",
+  "description": "<a href=\"https://gitpod.io/github.com/jeromtom/verifold\">\r   <img\r     src=\"https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod\"\r     alt=\"Contribute with Gitpod\"\r   />\r </a>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromtom/verifold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromtom/verifold/issues"
+  },
+  "homepage": "https://github.com/jeromtom/verifold#readme"
+}
